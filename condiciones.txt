@@ -1,0 +1,14 @@
+Condiciones:
+
+
+* Tematica libre
+
+* 3 fuentes de informacion (kaggle, google, etc....)
+
+* 2 metodos distintos de extraccion (csv, api, rss, scraping, etc...)
+
+* Carga en SQL
+
+
+* BONUS: EDA
+
